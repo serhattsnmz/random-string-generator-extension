@@ -1,0 +1,63 @@
+body {
+    width: 350px;
+    font-family: proxima-nova, HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h3 {
+    color: #696969;
+}
+
+.center {
+    text-align: center;
+}
+
+.section {
+    font-size: 14px;
+    padding: 14px;
+    margin-bottom: 14px;
+    font-weight: bold;
+    border: 1px dotted #c3c3c3;
+}
+
+.button {
+    background-color: #39a241;
+    border: 2px solid #00860a;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type="number"] {
+    width: 286px;
+    height: 30px;
+    border: 2px solid #adadad;
+    padding: 0px 20px;
+}
+
+.label {
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+    padding: 8px 2px;
+    color: #636161;
+}
+
+#success-message {
+    text-align: center;
+    color: #00860a;
+    padding: 15px 0px 10px;
+    font-size: 14px;
+}
+
+#error-message {
+    text-align: center;
+    color: red;
+    padding: 15px 0px 10px;
+    font-size: 14px;
+}

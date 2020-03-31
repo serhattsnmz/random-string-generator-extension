@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Random String Generator</title>
+    <script src="js/backend.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/checkbox.css">
+</head>
+
+<body>
+
+    <h3 class="center">Create Random String</h3>
+
+    <div class="container">
+        <ul class="ks-cboxtags">
+            <li>
+                <input type="checkbox" id="check1" checked>
+                <label for="check1">Uppercase Latters ( A-Z )</label>
+            </li>
+            <li>
+                <input type="checkbox" id="check2" checked>
+                <label for="check2">Lowercase Latters ( a-z )</label>
+            </li>
+            <li>
+                <input type="checkbox" id="check3" checked>
+                <label for="check3">Numbers ( 0-9 )</label>
+            </li>
+            <li>
+                <input type="checkbox" id="check4">
+                <label for="check4">Special Characters ( !#$%&*@ ... )</label>
+            </li>
+            <li>
+                <span class="label">Character Length</span>
+                <input type="number" id="number1" value="16">
+            </li>
+        </ul>
+    </div>
+
+
+
+    <div id="random-section" class="center section" style="display:none"></div>
+    <div class="center">
+        <button id="random-btn" class="center button">Generate Random String</button>
+    </div>
+
+    <hr>
+
+    <h3 class="center">Create UUID</h3>
+    <div id="uuid-section" class="center section" style="display:none"></div>
+    <div class="center">
+        <button id="uuid-btn" class="center button">Generate Random UUID</button>
+    </div>
+
+    <div id="success-message" style="display:none">
+        &#10004; String copied to clipboard.
+    </div>
+    <div id="error-message" style="display:none">
+        Your browser does not allow to copying.
+    </div>
+
+</body>
+
+</html>

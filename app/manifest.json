@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+
+    "author": "Serhat Sonmez (https://www.serhatsonmez.com.tr)",
+
+    "name": "Random String/Password Generator",
+    "description": "This extension will create random string/password and UUID",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": {
+            "16": "images/coding_16.png",
+            "24": "images/coding_24.png",
+            "32": "images/coding_32.png"
+        },
+        "default_popup": "main.html",
+        "default_title": "Random String/Password Generator"
+    },
+    "permissions": [
+        "clipboardWrite"
+    ]
+}
