@@ -1,4 +1,4 @@
-# Random String/Password & UUID Generator <small>| Chrome Extension</small>
+# Random String/Password & UUID Generator <br />( _Chrome Extension_ )
 
 ![](https://img.shields.io/static/v1?style=flat-square&label=Licence&message=GPL%20v3&color=blue)
 ![](https://img.shields.io/static/v1?style=flat-square&label=Stable%20Version&message=v1.0&color=red)
