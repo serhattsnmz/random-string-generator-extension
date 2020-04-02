@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/static/v1?style=flat-square&label=Licence&message=GPL%20v3&color=blue)
 ![](https://img.shields.io/static/v1?style=flat-square&label=Stable%20Version&message=v1.0&color=red)
-[![](https://img.shields.io/static/v1?style=flat-square&label=Google%20Market&message=v1.0&color=green)](https://chrome.google.com/webstore/detail/random-stringpassword-gen/jgoihhefghijiapfdoakebmfjjbbhoph?authuser=3&hl=tr)
+[![](https://img.shields.io/static/v1?style=flat-square&label=Google%20Market&message=v1.0&color=green)](https://chrome.google.com/webstore/detail/random-stringpassword-gen/jgoihhefghijiapfdoakebmfjjbbhoph)
 
 <center>
 <img src="files/github-cover.png" style="width:100%" />
@@ -17,4 +17,4 @@
 
 ## Installation
 
-- Go Chrome Web Market with [this link](https://chrome.google.com/webstore/detail/random-stringpassword-gen/jgoihhefghijiapfdoakebmfjjbbhoph?authuser=3&hl=tr) and use "Add to Chrome" button to install.
+- Go Chrome Web Market with [this link](https://chrome.google.com/webstore/detail/random-stringpassword-gen/jgoihhefghijiapfdoakebmfjjbbhoph) and use "Add to Chrome" button to install.
